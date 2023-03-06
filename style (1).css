@@ -1,0 +1,36 @@
+.button {
+  background-color: #e100ff;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
+
+
+.notbutton {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.notbutton1 {border-radius: 2px;}
+.notbutton2 {border-radius: 4px;}
+.notbutton3 {border-radius: 8px;}
+.notbutton4 {border-radius: 12px;}
+.notbutton5 {border-radius: 50%;}
